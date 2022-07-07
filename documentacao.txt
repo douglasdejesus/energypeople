@@ -1,0 +1,11 @@
+Tecnologias usadas no projeto:
+ - PHP 7.4.9;
+ 
+ - Biblioteca externa:             
+	- monolog/monolog 2.5;         // gerador de logs
+    - coffeecode/router 1.0.8;     // gerenciador de rotas
+    - coffeecode/datalayer 1.1.8;  // abstração persistente do banco em PDO
+    - coffeecode/uploader 1.0.11;  // upload de arquivo
+    - twig/twig v3.3.10;           // template 
+	
+ - MySQL 5.7.31

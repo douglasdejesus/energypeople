@@ -1,0 +1,2 @@
+[2022-05-10T12:23:28.437479+00:00] web.WARNING: Foo [] []
+[2022-05-10T12:25:21.634902+00:00] web.WARNING: Não foi possível editar a categoria! {"category_name":"Categoria 1 DB atualizadoooo","category_code":"111 DB - atualizado","id":"1"} []
